@@ -20,18 +20,19 @@
 
 ## 🌙 About Me
 
-```python
-class YongZhun:
-    def __init__(self):
-        self.location   = "Malaysia 🇲🇾"
-        self.role       = "Student & Developer & Builder"        
-        self.learning   = ["AI / ML", "Hackathon"]      
-        self.fuel       = "☕ coffee"
-        self.motto      = "Late nights, clean code."
+<img align="right" width="38%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer coding at a desk">
 
-    def say_hi(self):
-        print("Thanks for dropping by! 👋")
-```
+### Hey there, thanks for dropping by! 👋
+
+I'm a **student, developer and builder** from **Malaysia 🇲🇾** who codes best after dark.
+
+- 🧠 Currently learning **AI / ML**
+- 🏆 Hackathon regular: see the highlights below
+- 🛠️ Building full-stack apps with **TypeScript, React and Python**
+- ☕ Fuelled by **coffee** and late nights
+- 💬 Motto: *"Late nights, clean code."*
+
+<br clear="right">
 
 ---
 
