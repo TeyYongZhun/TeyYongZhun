@@ -98,16 +98,16 @@ class YongZhun:
 
 ---
 
-## 🏆 Hackathon Highlights
+## 🏆 Hackathon Highlights (9 Hackathons Joined)
 
 <details open>
 <summary>🏆 <b>View all hackathon highlights</b></summary>
 <br>
 
 <!--
-  HOW TO ADD AN EVENT: copy the row below into <tbody> and set the # to the next number (1, 2, 3, ...).
+  HOW TO ADD AN EVENT: copy the row below into <tbody> and set the # to the next number (1, 2, 3, ...), and bump the "Hackathons Joined" count in the heading.
   Keep the table free of blank lines, or GitHub stops rendering it.
-  Medal key: 🏆 Champion · 🥈 1st Runner Up · 🥉 2nd Runner Up · 🏅 Top N Finalist · 🎖️ Consolation Prize · 🫶 Participant
+  Medal key: 🏆 Champion · 🥈 1st Runner Up · 🥉 2nd Runner Up · 🏅 Top N Finalist · 🎖️ Consolation Prize · 📜 Participant
     <tr>
       <td align="center">2</td>
       <td>🏅 <b>Top 10 Finalist</b></td>
@@ -143,49 +143,49 @@ class YongZhun:
     </tr>
     <tr>
       <td align="center">3</td>
-      <td>🫶 <b>Participant</b></td>
+      <td>📜 <b>Participant</b></td>
       <td>Sime Darby Hackathon 2026</td>
       <td>TerraTwin: net-zero township copilot, a 3D digital twin that finds where to build solar and picks verified low-carbon materials</td>
       <td><a href="https://github.com/TeyYongZhun/TerraTwin-Hackathon">Repository</a></td>
     </tr>
     <tr>
       <td align="center">4</td>
-      <td>🫶 <b>Participant</b></td>
+      <td>📜 <b>Participant</b></td>
       <td>Tencent Cloud AI Can Do It Hackathon Singapore 2026</td>
       <td>Ventra: heart failure self-care companion that helps older patients catch early warning signs at home after discharge</td>
       <td><a href="https://github.com/TeyYongZhun/ventra-hackathon">Repository</a></td>
     </tr>
     <tr>
       <td align="center">5</td>
-      <td>🫶 <b>Participant</b></td>
+      <td>📜 <b>Participant</b></td>
       <td>Averis × Monash Hackathon 2026</td>
       <td>WayBoxAI: AI email triage for shipping teams that sorts the inbox and checks Shipping Instructions against Bills of Lading</td>
       <td><a href="https://github.com/TeyYongZhun/SleepyM4tcha-Hackathon">Repository</a></td>
     </tr>
     <tr>
       <td align="center">6</td>
-      <td>🫶 <b>Participant</b></td>
+      <td>📜 <b>Participant</b></td>
       <td>UM Hackathon 2026</td>
       <td>Last Minute ChatRojak: turns messy WhatsApp and team chats into prioritised tasks with deadlines, synced to Google Calendar</td>
       <td><a href="https://github.com/TeyYongZhun/Last_Minute_ChatRojak">Repository</a></td>
     </tr>
     <tr>
       <td align="center">7</td>
-      <td>🫶 <b>Participant</b> (Solo)</td>
+      <td>📜 <b>Participant</b> (Solo)</td>
       <td>WeAreDevelopers × Band Hackathon 2026</td>
       <td>Tablekeeper: restaurant reservation service in Go, built stage by stage by a team of three AI agents (architect, developer, QA)</td>
       <td><a href="https://github.com/TeyYongZhun/zerolab-tablekeeper-dark-factory">Repository</a></td>
     </tr>
     <tr>
       <td align="center">8</td>
-      <td>🫶 <b>Participant</b> (Solo)</td>
+      <td>📜 <b>Participant</b> (Solo)</td>
       <td>AssemblyAI Voice Agent Hackathon 2026</td>
       <td>EchoCode: voice-first AI pair programmer, a VS Code extension where you ask about your code out loud and hear the answer</td>
       <td><a href="https://github.com/TeyYongZhun/EchoCode-Hackathon">Repository</a></td>
     </tr>
     <tr>
       <td align="center">9</td>
-      <td>🫶 <b>Participant</b> (Solo)</td>
+      <td>📜 <b>Participant</b> (Solo)</td>
       <td>IBM Bob 2.0 Hackathon 2026</td>
       <td>ChatToPR: AI developer tool that turns a Slack incident thread into a GitHub Pull Request automatically</td>
       <td><a href="https://github.com/TeyYongZhun/ChatToPR">Repository</a></td>
